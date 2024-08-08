@@ -48,6 +48,7 @@
   "license": "MIT",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.1",
+    "pymport": "1.4.x",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   }

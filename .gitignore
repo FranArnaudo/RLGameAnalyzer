@@ -90,3 +90,9 @@ typings/
 
 # Electron-Forge
 out/
+
+# exclude everything
+outputs/*
+
+# exception to the rule
+!outputs/.gitkeep 
